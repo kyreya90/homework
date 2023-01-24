@@ -1,0 +1,46 @@
+.silver{
+    background: silver;
+    width: 600px;
+    height: 150px;
+
+}
+.black{
+    background: black;
+}
+.blue{
+    width: 152px;
+    height: 150px;
+    background: blue;
+    margin: 5px;
+    position: relative;
+    top: -75px;
+}
+.big {
+    height: 600px;
+    width: 600px
+}
+.round{
+    border-radius: 20px;
+}
+.little{
+    width: 100px;
+    height: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+.centr{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.centr2{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.ikon{
+
+}
