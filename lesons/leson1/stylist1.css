@@ -1,0 +1,25 @@
+h2{
+    background-color: bisque;
+    color: blue;
+}
+h3{
+    background-color: yellow;
+    color: #d00a73;
+}
+ul > li {
+    background: burlywood;
+    font-size: 16px;
+    color: darkred;}
+ol > li {
+    background: rosybrown;
+    font-size: 16px;
+    color: rebeccapurple;
+}
+p{
+    background-color: #eeeeb3;
+    color: blue;
+    font-size: 14px;
+}
+img{
+    width: 300px;
+}
