@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c37d140-5713-456e-bccb-d746bd4ef7b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesons/leson1/img/BART.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesons/leson1/img/Homer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesons/leson1/img/Liza.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesons/leson1/img/family.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesons/leson1/l1 simpsons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesons/leson1/stylist1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesons/leson2/homework21.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesons/leson2/homework22.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesons/leson2/stylist21.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesons/leson2/stylist22.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesons/leson3/stylist31.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesons/leson3/stylist32.css" afterDir="false" />
+    <list default="true" id="6c37d140-5713-456e-bccb-d746bd4ef7b5" name="Changes" comment="homwork3neww">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesons/leson3/homwork31.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesons/leson3/homwork31.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesons/leson3/homwork32.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesons/leson3/homwork32.html" afterDir="false" />
@@ -78,6 +66,14 @@
       <updated>1674579232970</updated>
       <workItem from="1674579234111" duration="1122000" />
     </task>
+    <task id="LOCAL-00001" summary="homwork3neww">
+      <created>1674651483742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674651483742</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homwork3neww" />
+    <option name="LAST_COMMIT_MESSAGE" value="homwork3neww" />
   </component>
 </project>
