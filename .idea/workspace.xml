@@ -4,10 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c37d140-5713-456e-bccb-d746bd4ef7b5" name="Changes" comment="homwork3">
+    <list default="true" id="6c37d140-5713-456e-bccb-d746bd4ef7b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesons/leson1/img/BART.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson1/img/Homer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson1/img/Liza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson1/img/family.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson1/l1 simpsons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson1/stylist1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson2/homework21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson2/homework22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson2/stylist21.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson2/stylist22.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson3/homwork31.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson3/homwork32.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson3/stylist31.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesons/leson3/stylist32.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesons/leson3/homwork31.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesons/leson3/homwork31.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesons/leson3/homwork32.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesons/leson3/homwork32.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/hw/homework/lesons/leson3",
+    "last_opened_file_path": "D:/hw/homework/lesons/leson1/img",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -53,7 +65,6 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\hw\homework\lesons\leson3" />
       <recent name="D:\hw\homework\lesons\leson1\img" />
     </key>
   </component>
@@ -65,36 +76,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674579232970</updated>
-      <workItem from="1674579234111" duration="1447000" />
-      <workItem from="1674646368205" duration="613000" />
-      <workItem from="1674647025858" duration="3302000" />
+      <workItem from="1674579234111" duration="1122000" />
     </task>
-    <task id="LOCAL-00001" summary="homwork3">
-      <created>1674580447841</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1674580447841</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="homwork3" />
-    <option name="LAST_COMMIT_MESSAGE" value="homwork3" />
   </component>
 </project>
