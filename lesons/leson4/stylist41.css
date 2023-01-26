@@ -1,0 +1,62 @@
+body{
+    display: flex;
+}
+.O{
+    width: 100%;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+}
+.A{
+    width: 98%;
+    height: 400px;
+    background: silver;
+    box-sizing: border-box;
+    margin: 1vw;
+    font-size: 30px;
+
+}
+.B{
+    width: 57%;
+    height: 620px;
+    background: saddlebrown;
+    box-sizing: border-box;
+    margin: 1vw;
+
+}
+.C{
+    width: 38%;
+    height: 620px;
+    background:salmon;
+    box-sizing: border-box;
+    margin: 1vw;
+}
+
+@media screen and (min-width: 0px) and (max-width: 600px){
+
+    .O{
+        width: 100%;
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .A{
+        background: greenyellow;
+        width: 98vw;
+        height:unset;
+       margin: 2vw;
+    }
+    .B{
+        width: 98vw;
+        height:unset;
+        background: greenyellow;
+        margin: 2vw;}
+    .C{
+        width: 98vw;
+        height:unset;
+        background: greenyellow;
+        margin: 2vw;}
+}
